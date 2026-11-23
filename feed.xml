@@ -6,27 +6,6 @@
 <description>Les offres des 30 derniers jours que le radar d'Abdou Aziz Sy note le mieux.</description>
 <language>fr</language>
 <item>
-<title>Junior Software Engineer</title>
-<link>https://himalayas.app/companies/syd-life-ai/jobs/junior-software-engineer</link>
-<guid isPermaLink="false">radar-emploi:offre:12819</guid>
-<pubDate>Mon, 23 Nov 2026 02:30:35 GMT</pubDate>
-<description>Syd Life AI · Worldwide · Pré-note 78/100</description>
-</item>
-<item>
-<title>Associate Developer</title>
-<link>https://himalayas.app/companies/asg-company/jobs/associate-developer</link>
-<guid isPermaLink="false">radar-emploi:offre:12129</guid>
-<pubDate>Fri, 20 Nov 2026 22:37:14 GMT</pubDate>
-<description>ASG Company · Worldwide · Pré-note 78/100</description>
-</item>
-<item>
-<title>Junior Engineer</title>
-<link>https://himalayas.app/companies/raidiam/jobs/junior-engineer</link>
-<guid isPermaLink="false">radar-emploi:offre:2512</guid>
-<pubDate>Sat, 24 Oct 2026 10:47:48 GMT</pubDate>
-<description>Raidiam · Australia · Note de Claude 72/100</description>
-</item>
-<item>
 <title>Junior Ubuntu Software Engineer</title>
 <link>https://job-boards.greenhouse.io/canonical/jobs/6707669</link>
 <guid isPermaLink="false">radar-emploi:offre:517</guid>
@@ -83,6 +62,13 @@
 <description>Africashore · Dakar - Diourbel - Fatick - Kaffrine - Kaolack - Kédougou - Kolda · Note de Claude 64/100</description>
 </item>
 <item>
+<title>Junior Software Engineer</title>
+<link>https://himalayas.app/companies/syd-life-ai/jobs/junior-software-engineer</link>
+<guid isPermaLink="false">radar-emploi:offre:12819</guid>
+<pubDate>Mon, 23 Nov 2026 02:30:35 GMT</pubDate>
+<description>Syd Life AI · Worldwide · Note de Claude 62/100</description>
+</item>
+<item>
 <title>1182 - Junior Frontend Developer (Part-Time)</title>
 <link>https://himalayas.app/companies/gofasti/jobs/1182-junior-frontend-developer-part-time</link>
 <guid isPermaLink="false">radar-emploi:offre:3078</guid>
@@ -95,13 +81,6 @@
 <guid isPermaLink="false">radar-emploi:offre:1137</guid>
 <pubDate>Wed, 21 Oct 2026 17:04:43 GMT</pubDate>
 <description>Africashore · Dakar - Diourbel - Fatick - Kaffrine - Kaolack - Kédougou - Kolda · Note de Claude 58/100</description>
-</item>
-<item>
-<title>Full Stack Engineer (Go and React)</title>
-<link>https://himalayas.app/companies/miratech/jobs/full-stack-engineer-go-and-react-851046494</link>
-<guid isPermaLink="false">radar-emploi:offre:12233</guid>
-<pubDate>Sat, 21 Nov 2026 14:31:44 GMT</pubDate>
-<description>Miratech · India · Pré-note 56/100</description>
 </item>
 <item>
 <title>REACT Developer (M/F)</title>
@@ -167,13 +146,6 @@
 <description>Africashore · Dakar - Diourbel - Fatick - Kaffrine - Kaolack - Kédougou - Kolda · Note de Claude 55/100</description>
 </item>
 <item>
-<title>Sales Development Associate</title>
-<link>https://himalayas.app/companies/clera/jobs/sales-development-associate-4520581748</link>
-<guid isPermaLink="false">radar-emploi:offre:12820</guid>
-<pubDate>Mon, 23 Nov 2026 02:30:35 GMT</pubDate>
-<description>Clera · Worldwide · Pré-note 52/100</description>
-</item>
-<item>
 <title>Développeur Back-End Java / Reactive Spring Sénior</title>
 <link>https://senjob.com/sn/jobseekers/développeur-back-end-java---reactive-spring-sénior_e_164947.html</link>
 <guid isPermaLink="false">radar-emploi:offre:11552</guid>
@@ -186,6 +158,13 @@
 <guid isPermaLink="false">radar-emploi:offre:7005</guid>
 <pubDate>Thu, 5 Nov 2026 14:30:08 GMT</pubDate>
 <description>SavageOne · South Africa · Note de Claude 52/100</description>
+</item>
+<item>
+<title>Informaticien</title>
+<link>https://senjob.com/sn/jobseekers/informaticien_e_165000.html</link>
+<guid isPermaLink="false">radar-emploi:offre:12978</guid>
+<pubDate>Mon, 23 Nov 2026 17:56:04 GMT</pubDate>
+<description>Pré-note 50/100</description>
 </item>
 <item>
 <title>V.I.E Java Backend Engineer (all gender)</title>
